@@ -5,11 +5,11 @@ This tool allows you to discover subdomains of a domain and check which subdomai
 
 ## Features
 
-- Enumerates subdomains using `assetfinder`.
-- - Checks for live subdomains with `httprobe`.
-  - - Filters and sorts live subdomains.
+1.Enumerates subdomains using `assetfinder`.
+2.Checks for live subdomains with `httprobe`.
+3.Filters and sorts live subdomains.
    
-    -  ## Requirements
+## Requirements
    
-    -  - Go (for installing `assetfinder` and `httprobe`)
-       - - Basic knowledge of command-line tools
+1.Go (for installing `assetfinder` and `httprobe`)
+2.Basic knowledge of command-line tools
